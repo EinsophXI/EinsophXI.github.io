@@ -56,7 +56,15 @@ h3 {
   font: normal 125% 'trebuchet ms', arial, sans-serif;
 }
 
-h4, h5, h6 { 
+h4{
+  margin: 0;
+  padding: 0 0 5px 0;
+  font: normal 110% arial, sans-serif;
+  color: #750000;
+  line-height: 1.5em;
+}
+
+h5, h6 { 
   margin: 0;
   padding: 0 0 5px 0;
   font: normal 110% arial, sans-serif;
